@@ -9,7 +9,7 @@ app.use(cors());
 //Connect all routes to the application
 app.use('/', routes);
 
-//Turn on the server and listen on port 9091
-app.listen(9091, () => {
- console.log("Express server running on port 9091");
+//Turn on the server and listen on port 8081
+app.listen(8081, () => {
+ console.log("Express server running on port 8081");
 });
