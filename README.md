@@ -31,7 +31,7 @@ Follow these steps for deploying to AWS  Elastic Beanstalk:
 	
 	eb deploy
  
-4. Access the API using below link.
+4. Access the API using link like below.
 	
 	http://etc-service.tthmedhjhb.us-west-2.elasticbeanstalk.com/etc?inputDate=05/07/2018
 	
