@@ -1,15 +1,6 @@
 # ETC MicroService built with ExpressJS
 
-This ETC MicroService is built using ExpressJS and is deployed on AWS Elastic Beanstalk.
-
-# Getting started locally
-
-To get the Node server running locally:
-
-- Clone this repo
-- `npm install` to install all required dependencies
-- `node app.js` to start the local server
-- Test using `curl http://localhost:8081/etc?inputDate=05/09/2018`
+This ETC MicroService is built using ExpressJS and is deployed on AWS Elastic Beanstalk. For testing purposes, steps are also given to run this application locally using npm.
 
 # Deploy to AWS Elastic Beanstalk
 
@@ -36,3 +27,12 @@ Follow these steps for deploying to AWS  Elastic Beanstalk:
 	http://etc-service.tthmedhjhb.us-west-2.elasticbeanstalk.com/etc?inputDate=05/07/2018
 	
 5. EBS provisions all the required resources for running a node application in AWS. Go to AWS Console under Elastic Beanstalk service section and view the above created application.
+
+# Getting started locally
+
+To get the Node server running locally:
+
+- Clone this repo
+- `npm install` to install all required dependencies
+- `node app.js` to start the local server
+- Test using `curl http://localhost:8081/etc?inputDate=05/09/2018`
