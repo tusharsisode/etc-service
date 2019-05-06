@@ -6,7 +6,7 @@ This ETC MicroService is built using ExpressJS and is deployed on AWS Elastic Be
 
 Install and get the Elastic Beanstalk Command Line Interface (EB CLI) running by referring this link: https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/eb-cli3-install.html
  
-###Refer document ETC_API_Deployed_To_AWS_EBS_Screenshots.docx for steps with screenshots.
+### Refer document ETC_API_Deployed_To_AWS_EBS_Screenshots.docx for steps with screenshots.
 
 Follow these steps for deploying to AWS  Elastic Beanstalk:
 
