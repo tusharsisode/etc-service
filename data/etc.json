@@ -1,7 +1,7 @@
 [
 	{
 		"currency": "ETC",
-		"date": "20180507",
+		"date": "20190507",
 		"quotes": [
 			{
 				"time": "0915",
@@ -27,7 +27,7 @@
 	},
 	{
 		"currency": "ETC",
-		"date": "20180508",
+		"date": "20190508",
 		"quotes": [
 			{
 				"time": "0900",
@@ -53,7 +53,7 @@
 	},
 	{
 		"currency": "ETC",
-		"date": "20180509",
+		"date": "20190509",
 		"quotes": [
 			{
 				"time": "0930",
